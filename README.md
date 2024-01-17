@@ -15,7 +15,7 @@ Eu gostaria muito de mudar de emprego, gostaria tanto que estou desempregado des
 
 ## Habilidades
 
-Design Thinking 
+- Designer de Jogos, - Rabiscos pouco promissores, porém, com constência (desenho), - Design de Personagens.
 
 
 ## Quote
@@ -32,7 +32,7 @@ Tenho projeto de um jogo de RPG de mesa que trata de um Brasil distópico onde a
 
 Tenho um projeto para jogo de corrida (com uso de traits e talentos nos pilotos)
 
-Tenho um RPG que gostaria de iniciar - Aquela coisa com Cavaleiro, Paladino, Mago, Arqueiro e etc. Contando com um universo Original com criaturas que vem e vão e, claramente, com um toque brasileiro. Quem sabe a linha de BRPG.
+Tenho um RPG que gostaria de iniciar - Aquela coisa com Cavaleiro, Paladino, Mago, Arqueiro e etc. Contando com um universo Original com criaturas que vem e vão e, claramente, com um toque brasileiro. Quem sabe uma possivel linha de BRPG.
 
 Existem outros rabiscos, sempre existem.
 
